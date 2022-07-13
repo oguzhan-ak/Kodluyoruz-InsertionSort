@@ -1,6 +1,6 @@
 # Insertion Sort
 
-Kodluyoruz Insertion Sort Projesii
+Kodluyoruz Insertion Sort Projesi
 
 ## Aşamalar
 
